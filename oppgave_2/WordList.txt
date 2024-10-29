@@ -1,0 +1,10 @@
+JUMP
+unique
+radar
+listen
+quiet
+cat
+SILENT
+dog
+deified
+END

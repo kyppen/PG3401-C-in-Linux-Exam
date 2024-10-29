@@ -1,0 +1,7 @@
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2.txt
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2_palindrom.c
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2_heterogram.c
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2_all_lower.c
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2_all_upper.c
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2_anagram.c
+http://www.eastwill.no/pg3401/eksamen_v24_oppgave2_disjoint.c
